@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic
+  Pricing/ModelTraning/mlruns/626676229658482462/models/m-e7b3c44c7785472bbcada290261c8144/artifacts
+creation_timestamp: 1764409784817
+experiment_id: '626676229658482462'
+last_updated_timestamp: 1764409796376
+model_id: m-e7b3c44c7785472bbcada290261c8144
+model_type: null
+name: random_forest_model
+source_run_id: 872ffd6bebad4c599815db01a9016610
+status: 2
+status_message: null

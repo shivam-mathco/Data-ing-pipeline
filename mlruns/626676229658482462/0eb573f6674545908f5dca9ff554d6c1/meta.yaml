@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic
+  Pricing/ModelTraning/mlruns/626676229658482462/0eb573f6674545908f5dca9ff554d6c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '626676229658482462'
+lifecycle_stage: active
+run_id: 0eb573f6674545908f5dca9ff554d6c1
+run_name: Gradient_Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764409796438
+status: 1
+tags: []
+user_id: ShivamBaldha

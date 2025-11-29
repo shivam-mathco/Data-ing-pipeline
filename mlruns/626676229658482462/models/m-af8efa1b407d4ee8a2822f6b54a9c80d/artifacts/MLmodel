@@ -1,0 +1,56 @@
+artifact_path: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic
+  Pricing/ModelTraning/mlruns/626676229658482462/models/m-af8efa1b407d4ee8a2822f6b54a9c80d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-af8efa1b407d4ee8a2822f6b54a9c80d
+model_size_bytes: 1473
+model_uuid: m-af8efa1b407d4ee8a2822f6b54a9c80d
+prompts: null
+run_id: 29c8014c82e94fad862fcf90a7da6fef
+signature:
+  inputs: '[{"type": "double", "name": "SellingPrice", "required": true}, {"type":
+    "double", "name": "PriceDiscount", "required": true}, {"type": "double", "name":
+    "RelativePrice", "required": true}, {"type": "double", "name": "PriceVsNoPromo",
+    "required": true}, {"type": "double", "name": "AvgCompetitorPrice", "required":
+    true}, {"type": "double", "name": "PriceAdvantage", "required": true}, {"type":
+    "double", "name": "PricePositionVsComp", "required": true}, {"type": "double",
+    "name": "CompetitorDiscountAvg", "required": true}, {"type": "double", "name":
+    "CrossPriceElasticity_Nirma_vs_SurfExcel", "required": true}, {"type": "double",
+    "name": "StockStart", "required": true}, {"type": "double", "name": "StockRatio",
+    "required": true}, {"type": "double", "name": "BackorderRate", "required": true},
+    {"type": "double", "name": "InventoryEfficiency", "required": true}, {"type":
+    "double", "name": "SafetyStock", "required": true}, {"type": "double", "name":
+    "ReorderPoint", "required": true}, {"type": "double", "name": "CTR", "required":
+    true}, {"type": "double", "name": "AbandonedCartRate", "required": true}, {"type":
+    "double", "name": "BounceRate", "required": true}, {"type": "double", "name":
+    "ConversionRate", "required": true}, {"type": "double", "name": "OverallFunnelEfficiency",
+    "required": true}, {"type": "double", "name": "EngagementScore", "required": true},
+    {"type": "double", "name": "PurchaseIntent_Score", "required": true}, {"type":
+    "double", "name": "DayOfWeek", "required": true}, {"type": "double", "name": "Month",
+    "required": true}, {"type": "double", "name": "Quarter", "required": true}, {"type":
+    "double", "name": "IsWeekend", "required": true}, {"type": "double", "name": "DayOfWeek_Sin",
+    "required": true}, {"type": "double", "name": "DayOfWeek_Cos", "required": true},
+    {"type": "double", "name": "Month_Sin", "required": true}, {"type": "double",
+    "name": "Month_Cos", "required": true}, {"type": "double", "name": "Demand_MA7",
+    "required": true}, {"type": "double", "name": "Demand_Lag1", "required": true},
+    {"type": "double", "name": "Demand_Lag7", "required": true}, {"type": "double",
+    "name": "UnitsSold_Lag1", "required": true}, {"type": "double", "name": "UnitsSold_Lag7",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-29 09:44:41.009476'

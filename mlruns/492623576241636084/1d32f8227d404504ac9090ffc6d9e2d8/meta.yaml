@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic%20Pricing/ModelTraning/mlruns/492623576241636084/1d32f8227d404504ac9090ffc6d9e2d8/artifacts
+end_time: 1764409233707
+entry_point_name: ''
+experiment_id: '492623576241636084'
+lifecycle_stage: active
+run_id: 1d32f8227d404504ac9090ffc6d9e2d8
+run_name: final_random_forest_with_tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764409209731
+status: 4
+tags: []
+user_id: ShivamBaldha

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic
+  Pricing/ModelTraning/mlruns/626676229658482462/7d4903d435d24078b07fecec1965e709/artifacts
+end_time: 1764409360812
+entry_point_name: ''
+experiment_id: '626676229658482462'
+lifecycle_stage: active
+run_id: 7d4903d435d24078b07fecec1965e709
+run_name: Ridge_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764409353844
+status: 4
+tags: []
+user_id: ShivamBaldha

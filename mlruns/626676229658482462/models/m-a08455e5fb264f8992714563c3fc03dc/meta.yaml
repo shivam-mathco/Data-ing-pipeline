@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic
+  Pricing/ModelTraning/mlruns/626676229658482462/models/m-a08455e5fb264f8992714563c3fc03dc/artifacts
+creation_timestamp: 1764409473548
+experiment_id: '626676229658482462'
+last_updated_timestamp: 1764409480034
+model_id: m-a08455e5fb264f8992714563c3fc03dc
+model_type: null
+name: lasso_model
+source_run_id: b32a4222b5a44e14a8eea0a5c32c4e92
+status: 2
+status_message: null

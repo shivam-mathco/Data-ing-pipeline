@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic
+  Pricing/ModelTraning/mlruns/626676229658482462/models/m-0f41d7485e074d479c4c7ca0fce9eff3/artifacts
+creation_timestamp: 1764409453758
+experiment_id: '626676229658482462'
+last_updated_timestamp: 1764409472658
+model_id: m-0f41d7485e074d479c4c7ca0fce9eff3
+model_type: null
+name: ridge_model
+source_run_id: e101348336b24631b79ba48ea5262890
+status: 2
+status_message: null

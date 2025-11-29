@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic
+  Pricing/ModelTraning/mlruns/626676229658482462/29c8014c82e94fad862fcf90a7da6fef/artifacts
+end_time: 1764409488257
+entry_point_name: ''
+experiment_id: '626676229658482462'
+lifecycle_stage: active
+run_id: 29c8014c82e94fad862fcf90a7da6fef
+run_name: ElasticNet_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764409480082
+status: 3
+tags: []
+user_id: ShivamBaldha

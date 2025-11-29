@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/ShivamBaldha/Downloads/0139246b-3c39-4c03-9a64-c1facbbcc988_DynamicPricing/Dynamic
+  Pricing/ModelTraning/mlruns/626676229658482462/models/m-af8efa1b407d4ee8a2822f6b54a9c80d/artifacts
+creation_timestamp: 1764409480830
+experiment_id: '626676229658482462'
+last_updated_timestamp: 1764409488152
+model_id: m-af8efa1b407d4ee8a2822f6b54a9c80d
+model_type: null
+name: elasticnet_model
+source_run_id: 29c8014c82e94fad862fcf90a7da6fef
+status: 2
+status_message: null
